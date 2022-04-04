@@ -1,0 +1,9 @@
+{
+  "name": "pnpm-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "pnpm dev -r"
+  },
+  "dependencies": {
+  }
+}
